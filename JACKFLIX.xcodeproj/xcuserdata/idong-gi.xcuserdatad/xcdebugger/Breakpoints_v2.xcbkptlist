@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D0A0323-4B8D-43D8-AAD8-5A410EB3873F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JACKFLIX/registerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "RegisterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF - 7bf0e763656301e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.switchBtn.getter : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/registerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF - 12dcb442c0f371d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.switchBtn.setter : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/registerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF - bb33ef264d1bfde5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.switchBtn.modify : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/registerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF - c5750d982c51365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.switchBtn.modify : Swift.Optional&lt;__C.UISwitch&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/registerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF - e803d560bd6588cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; JACKFLIX.RegisterViewController"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/registerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "498">
+               </Location>
+               <Location
+                  uuid = "23AAB894-03BF-4520-BF82-7836F9F9CBFF - 4a7192f731b04dc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;JACKFLIX.RegisterViewController&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/registerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "455">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JACKFLIX/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "RegisterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A - c01b804f5a7e8703"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.password.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A - f881778f0c9150f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.password.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A - 7cd74ff78c811a06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.password.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A - c7f0fefeff5f944d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.password.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A - 31e8c752f729e1c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; JACKFLIX.RegisterViewController"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "293">
+               </Location>
+               <Location
+                  uuid = "6E2897FA-354A-4461-AB8C-BC6A64F5966A - 939a80c57bfc24ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JACKFLIX.RegisterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;JACKFLIX.RegisterViewController&gt;"
+                  moduleName = "JACKFLIX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/idong-gi/Desktop/Xcode%20workspace/sesac%20project/JACKFLIX/JACKFLIX/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "250">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
